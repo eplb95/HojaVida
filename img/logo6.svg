@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 80.416794 17.790028"
+   height="17.790028mm"
+   width="80.416794mm">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath834"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="94.421982"
+         x="50.53928"
+         height="19.815098"
+         width="82.936264"
+         id="rect836"
+         style="opacity:0.1;fill:#4d4d4d;stroke-width:0.26458332" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-50.75855,-96.79672)"
+     style="display:inline"
+     id="layer1">
+    <text
+       clip-path="url(#clipPath834)"
+       transform="scale(0.98793319,1.0122142)"
+       id="text12"
+       y="113.0283"
+       x="51.378525"
+       style="font-style:normal;font-weight:normal;font-size:10.71259975px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26781499"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.71023941px;font-family:Algerian;-inkscape-font-specification:Algerian;fill:#000080;stroke-width:0.26781499"
+         y="113.0283"
+         x="51.378525"
+         id="tspan10">E.P.L.B</tspan></text>
+  </g>
+  <g
+     transform="translate(-50.75855,-96.79672)"
+     style="display:inline"
+     id="layer2" />
+</svg>
